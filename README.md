@@ -1,7 +1,4 @@
-Personal fork
--------------------------
-
-Lambdas NightHacking Lab
+Lambdas NightHacking Lab: juliakram solution [![Build Status](https://travis-ci.org/yuliyakramarenko/LambdasHacking.svg?branch=master)](https://travis-ci.org/yuliyakramarenko/LambdasHacking)
 ==============
 
 Artifacts for the NightHacking session with Stuart Marks and Brian Goetz.
