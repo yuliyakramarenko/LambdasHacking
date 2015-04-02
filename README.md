@@ -1,4 +1,4 @@
-Lambdas NightHacking Lab: juliakram solution [![Build Status](https://travis-ci.org/yuliyakramarenko/LambdasHacking.svg?branch=master)](https://travis-ci.org/yuliyakramarenko/LambdasHacking)
+Lambdas NightHacking Lab: juliakram solution
 ==============
 
 Artifacts for the NightHacking session with Stuart Marks and Brian Goetz.
